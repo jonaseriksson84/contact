@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "gatsby": "^2.19.19",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "name": "contact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jonaseriksson84/contact.git",
+  "author": "Jonas Eriksson <jonaseriksson84@gmail.com>",
+  "license": "MIT"
+}
